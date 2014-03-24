@@ -1,7 +1,12 @@
 # TODO
 
-- [ ] Filter a list of entries by tag
-
 - [ ] Parse entries xml into Entry objects
 
-- [ ] Parse entry xml file into entry objects
+- [ ] Write out markdown file with frontmatter from an Entry object
+
+- [ ] Filter a list of entries by tag
+
+- [ ] For a file with a matching image, upload the image to flickr and link to
+  it.
+
+- [ ] Use Dropbox API to get file modified time? (see DEVNOTES)

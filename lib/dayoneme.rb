@@ -1,5 +1,5 @@
 require "dayoneme/version"
+require "dayoneme/entry_parser"
 
 module Dayoneme
-  # Your code goes here...
 end
